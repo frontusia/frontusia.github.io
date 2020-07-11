@@ -1,1 +1,3 @@
-### [Календарь](https://frontusia.github.io) - [код](https://github.com/frontusia/calendar)
+## [Calendar](https://frontusia.github.io)
+######Technology: Vue, Vuex, CSS, Typescript, JSX
+######[Github](https://github.com/frontusia/calendar)
